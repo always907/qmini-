@@ -1,0 +1,13 @@
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/CMakeFiles/run_interface.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/CMakeFiles/edit_cache.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/CMakeFiles/rebuild_cache.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/CMakeFiles/list_install_components.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/CMakeFiles/install.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/CMakeFiles/install/local.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/CMakeFiles/install/strip.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/thirdparty/CMakeFiles/edit_cache.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/thirdparty/CMakeFiles/rebuild_cache.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/thirdparty/CMakeFiles/list_install_components.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/thirdparty/CMakeFiles/install.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/thirdparty/CMakeFiles/install/local.dir
+/home/smp/RoboTamerSdk4Qmini-main/build_temp/thirdparty/CMakeFiles/install/strip.dir

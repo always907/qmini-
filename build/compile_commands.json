@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/smp/RoboTamerSdk4Qmini-main/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DYAML_CPP_STATIC_DEFINE -I/home/smp/RoboTamerSdk4Qmini-main/include/onnx -I/home/smp/RoboTamerSdk4Qmini-main/include/user -I/home/smp/RoboTamerSdk4Qmini-main/include/utils -I/home/smp/RoboTamerSdk4Qmini-main/include/unitree -I/usr/local/include/eigen3 -I/usr/local/include/yaml-cpp -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -isystem /home/smp/RoboTamerSdk4Qmini-main/include -isystem /usr/include/jsoncpp -isystem /usr/include/python3.12 -isystem /home/smp/RoboTamerSdk4Qmini-main/thirdparty/include -isystem /home/smp/RoboTamerSdk4Qmini-main/thirdparty/include/ddscxx -O3 -fPIC -g -std=c++17 -o CMakeFiles/run_interface.dir/source/run_interface.cpp.o -c /home/smp/RoboTamerSdk4Qmini-main/source/run_interface.cpp",
+  "file": "/home/smp/RoboTamerSdk4Qmini-main/source/run_interface.cpp",
+  "output": "CMakeFiles/run_interface.dir/source/run_interface.cpp.o"
+},
+{
+  "directory": "/home/smp/RoboTamerSdk4Qmini-main/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DYAML_CPP_STATIC_DEFINE -I/home/smp/RoboTamerSdk4Qmini-main/include/onnx -I/home/smp/RoboTamerSdk4Qmini-main/include/user -I/home/smp/RoboTamerSdk4Qmini-main/include/utils -I/home/smp/RoboTamerSdk4Qmini-main/include/unitree -I/usr/local/include/eigen3 -I/usr/local/include/yaml-cpp -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -isystem /home/smp/RoboTamerSdk4Qmini-main/include -isystem /usr/include/jsoncpp -isystem /usr/include/python3.12 -isystem /home/smp/RoboTamerSdk4Qmini-main/thirdparty/include -isystem /home/smp/RoboTamerSdk4Qmini-main/thirdparty/include/ddscxx -O3 -fPIC -g -std=c++17 -o CMakeFiles/run_interface.dir/source/user/custom.cpp.o -c /home/smp/RoboTamerSdk4Qmini-main/source/user/custom.cpp",
+  "file": "/home/smp/RoboTamerSdk4Qmini-main/source/user/custom.cpp",
+  "output": "CMakeFiles/run_interface.dir/source/user/custom.cpp.o"
+},
+{
+  "directory": "/home/smp/RoboTamerSdk4Qmini-main/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DYAML_CPP_STATIC_DEFINE -I/home/smp/RoboTamerSdk4Qmini-main/include/onnx -I/home/smp/RoboTamerSdk4Qmini-main/include/user -I/home/smp/RoboTamerSdk4Qmini-main/include/utils -I/home/smp/RoboTamerSdk4Qmini-main/include/unitree -I/usr/local/include/eigen3 -I/usr/local/include/yaml-cpp -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -isystem /home/smp/RoboTamerSdk4Qmini-main/include -isystem /usr/include/jsoncpp -isystem /usr/include/python3.12 -isystem /home/smp/RoboTamerSdk4Qmini-main/thirdparty/include -isystem /home/smp/RoboTamerSdk4Qmini-main/thirdparty/include/ddscxx -O3 -fPIC -g -std=c++17 -o CMakeFiles/run_interface.dir/source/user/rl_controller.cpp.o -c /home/smp/RoboTamerSdk4Qmini-main/source/user/rl_controller.cpp",
+  "file": "/home/smp/RoboTamerSdk4Qmini-main/source/user/rl_controller.cpp",
+  "output": "CMakeFiles/run_interface.dir/source/user/rl_controller.cpp.o"
+}
+]
