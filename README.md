@@ -1,4 +1,5 @@
-这是改进版的Qmini代码
+这是改进版的Qmini代码文件包，操作教程见飞书文档https://xcnn12likzgr.feishu.cn/wiki/GeX9wWriSi5OnskR4LKct3Ffn0f，3
+d打印的SolidWorks文件见其他分支
 
 
 
