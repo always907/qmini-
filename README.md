@@ -1,3 +1,9 @@
+这是改进版的Qmini代码
+
+
+
+
+
 # RoboTamerSdk4Qmini_v1.0
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![C++](https://img.shields.io/badge/Code%20Language-C++-blue.svg) 
